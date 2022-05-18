@@ -858,7 +858,7 @@ Page Preloder
     position: absolute;
     left: 50%;
     top: 50%;
-    background-image: url(ajax-loader.gif);
+    background-image: url(../preloader.GIF);
     background-repeat: no-repeat;
     background-position: center;
     margin: -100px 0 0 -100px;
