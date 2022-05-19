@@ -339,8 +339,11 @@ Buttons & Links
 .btn-send:hover,
 .btn-md:focus,
 .btn-send:focus {
-    color: #fff;
-    background: #b7001e;
+    color: gray;
+    background: white;
+    border: #199CDB;
+    box-shadow: rgba(25, 152, 219, 1) 0px 0px 0px 3px;
+    border-width: thick;
 }
 
 .btn-gray {
@@ -360,8 +363,11 @@ Buttons & Links
 }
 
 .btn-gray:hover {
-    background: #777777;
-    color: #fff;
+    color: gray;
+    background: white;
+    border: #199CDB;
+    box-shadow: rgba(25, 152, 219, 1) 0px 0px 0px 3px;
+    border-width: thick;
 }
 
 .btn-gray span {
